@@ -1,0 +1,21 @@
+.topbanner_wrap{
+    background-color:#ffc8ce;
+}
+.index_topbanner{
+    width: 1228px; margin: 0 auto;
+}
+.hd_top_bar{
+    background-color:#f4f4f4;
+}
+.clearfix{
+    width: 1228px; margin: 0 auto;
+}
+.adress{
+    float:left;
+}
+.hd_topbar_right{
+    float:right;
+    & li{
+        margin:0 10px;
+    }
+}

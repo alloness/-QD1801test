@@ -1,0 +1,140 @@
+.regist_header {
+  padding: 16px;
+  background: #fff;
+  border: 1px solid #e1e1e1;
+  overflow: hidden;
+  box-shadow: 2px 2px 3px #aaaaaa; }
+  .regist_header .wrap {
+    width: 1200px;
+    margin: 0 auto; }
+    .regist_header .wrap a {
+      float: left;
+      width: 54px;
+      height: 48px;
+      display: block; }
+    .regist_header .wrap .regist_header_right {
+      float: right;
+      line-height: 18px;
+      font-family: "SimSun";
+      color: #999; }
+      .regist_header .wrap .regist_header_right span {
+        float: right; }
+        .regist_header .wrap .regist_header_right span .hd_right {
+          color: #06c;
+          float: right; }
+
+.login_center {
+  width: 980px;
+  margin: 0 auto;
+  padding-top: 26px; }
+  .login_center img {
+    width: 510px;
+    height: 315px;
+    margin-top: 45px;
+    padding-bottom: 30px; }
+  .login_center .nod_login_wrap {
+    position: relative;
+    float: right;
+    width: 330px;
+    padding: 45px 35px 0 35px;
+    background-color: white; }
+    .login_center .nod_login_wrap p {
+      width: 330px;
+      height: 30px;
+      font-size: 14px;
+      color: #666;
+      line-height: 30px;
+      font-weight: bold; }
+      .login_center .nod_login_wrap p a {
+        float: right;
+        color: #06c;
+        line-height: 30px;
+        font-weight: normal; }
+    .login_center .nod_login_wrap ul li {
+      position: relative;
+      height: 50px;
+      margin-top: 8px;
+      border: 1px solid #cfcfcf;
+      z-index: 2;
+      border-radius: 3px;
+      text-align: right; }
+      .login_center .nod_login_wrap ul li .login_input {
+        position: relative;
+        z-index: 2;
+        width: 230px;
+        height: 20px;
+        margin-top: 15px;
+        padding: 0 20px;
+        background: 0;
+        border: 0;
+        outline: 0;
+        font-size: 14px;
+        line-height: 20px;
+        color: #666; }
+      .login_center .nod_login_wrap ul li span {
+        position: absolute;
+        left: 20px;
+        top: 0;
+        display: inline-block;
+        height: 50px;
+        font-size: 14px;
+        line-height: 50px;
+        color: #666; }
+    .login_center .nod_login_wrap div {
+      margin-top: 10px;
+      color: #999;
+      overflow: hidden; }
+      .login_center .nod_login_wrap div input {
+        border: 0;
+        margin-top: 2px;
+        padding-top: 3px;
+        display: inline-block;
+        float: left; }
+      .login_center .nod_login_wrap div span {
+        float: left; }
+      .login_center .nod_login_wrap div a {
+        display: inline-block;
+        float: right;
+        color: #999; }
+    .login_center .nod_login_wrap .btn_login {
+      width: 330px;
+      height: 52px;
+      margin-top: 13px;
+      background-color: #ff3c3c;
+      fong-size: 16px;
+      line-height: 52px;
+      color: #fff;
+      text-align: center;
+      border-radius: 3px;
+      border: 0;
+      cursor: pointer;
+      text-shadow: 1px 1px 1px #ff7373; }
+    .login_center .nod_login_wrap .bt_login {
+      padding: 15px 0;
+      color: #666;
+      font-size: 12px;
+      font-weight: normal;
+      height: 16px;
+      line-height: 16px; }
+    .login_center .nod_login_wrap .msg_login {
+      overflow: hidden;
+      margin-top: 6px; }
+      .login_center .nod_login_wrap .msg_login a {
+        float: left;
+        width: 32px;
+        height: 35px;
+        margin-right: 20px;
+        background-color: #ff4040;
+        display: block; }
+      .login_center .nod_login_wrap .msg_login i {
+        height: 34px;
+        line-height: 34px;
+        float: right;
+        width: 93px; }
+        .login_center .nod_login_wrap .msg_login i .bt_btn {
+          width: 15px;
+          height: 10px;
+          border: 1px solid #999;
+          background-color: white;
+          float: right;
+          margin-top: 11px; }

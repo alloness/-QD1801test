@@ -1,0 +1,135 @@
+.regist_header {
+  padding: 16px;
+  background: #fff;
+  border: 1px solid #e1e1e1;
+  overflow: hidden;
+  box-shadow: 2px 2px 3px #aaaaaa; }
+  .regist_header .wrap {
+    width: 1200px;
+    margin: 0 auto; }
+    .regist_header .wrap a {
+      float: left;
+      width: 54px;
+      height: 48px;
+      display: block; }
+    .regist_header .wrap .regist_header_right {
+      float: right;
+      line-height: 18px;
+      font-family: "SimSun";
+      color: #999; }
+      .regist_header .wrap .regist_header_right span {
+        float: right; }
+        .regist_header .wrap .regist_header_right span .hd_right {
+          color: #06c;
+          float: right; }
+
+.y_regist_wrap {
+  position: relative;
+  pbrder-bottom: 1px solid #f4f4f4;
+  background: #fcfcfc;
+  padding: 30px 0 40px; }
+  .y_regist_wrap .y_regist_model {
+    position: relative;
+    z-index: 150;
+    width: 330px;
+    margin: 0 auto; }
+    .y_regist_wrap .y_regist_model h4 {
+      text-align: center;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 50px;
+      color: #333; }
+    .y_regist_wrap .y_regist_model ul .ysame_li_mid {
+      width: 190px; }
+    .y_regist_wrap .y_regist_model ul li {
+      position: relative;
+      height: 50px;
+      margin-top: 15px;
+      border: 1px solid #cfcfcf;
+      z-index: 2;
+      border-radius: 3px; }
+      .y_regist_wrap .y_regist_model ul li .ysame_input {
+        position: relative;
+        z-index: 2;
+        width: 288px;
+        height: 20px;
+        margin-top: 15px;
+        padding: 0 20px;
+        background: 0;
+        border: 0;
+        outline: 0;
+        font-size: 14px;
+        line-height: 20px;
+        color: #666; }
+      .y_regist_wrap .y_regist_model ul li .ysame_input_mid {
+        position: relative;
+        z-index: 2;
+        width: 192px;
+        height: 20px;
+        margin-top: 15px;
+        padding: 0 20px;
+        background: 0;
+        border: 0;
+        outline: 0;
+        font-size: 14px;
+        line-height: 20px;
+        color: #666; }
+      .y_regist_wrap .y_regist_model ul li .receive_code {
+        position: absolute;
+        z-index: 2;
+        width: 126px;
+        height: 50px;
+        margin-left: 10px;
+        text-align: center;
+        background-color: #57565f;
+        line-height: 52px;
+        color: #fff;
+        cursor: default;
+        border-radius: 2px;
+        font-size: 14px;
+        float: left;
+        top: 0;
+        left: 192px; }
+    .y_regist_wrap .y_regist_model ul span {
+      position: absolute;
+      left: 20px;
+      top: 0;
+      display: inline-block;
+      height: 50px;
+      font-size: 14px;
+      line-height: 50px;
+      color: #666; }
+    .y_regist_wrap .y_regist_model ul p {
+      position: absolute;
+      left: 348px;
+      top: 0;
+      min-width: 156px;
+      line-height: 20px;
+      padding: 10px;
+      background-color: #e4e4e4;
+      display: inline-block;
+      display: none; }
+    .y_regist_wrap .y_regist_model h5 {
+      height: 35px;
+      font-size: 12px;
+      line-height: 35px;
+      color: #666;
+      margin-top: 5px; }
+      .y_regist_wrap .y_regist_model h5 a {
+        color: #06c;
+        text-decoration: none;
+        font-size: 12px; }
+    .y_regist_wrap .y_regist_model button {
+      width: 330px;
+      height: 52px;
+      margin-top: 6px;
+      background-color: #ff3c3c;
+      fong-size: 16px;
+      line-height: 52px;
+      color: #fff;
+      text-align: center;
+      border-radius: 2px;
+      border: 0; }
+
+.ysame_input_mid {
+  width: 192px; }
